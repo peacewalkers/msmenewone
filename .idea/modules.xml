@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../argon/.idea/argon.iml" filepath="$PROJECT_DIR$/../argon/.idea/argon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../msmenew/.idea/msmenew.iml" filepath="$PROJECT_DIR$/../msmenew/.idea/msmenew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/msmenewone.iml" filepath="$PROJECT_DIR$/.idea/msmenewone.iml" />
+    </modules>
+  </component>
+</project>
